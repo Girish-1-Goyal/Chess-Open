@@ -1,0 +1,7 @@
+Correct Move
+Rhbqkbhrpppppppp                   p            ppp ppppRhbqkbhr
+ggggggggggggggggpppppppppppppppppppwppppppppppppwwwwwwwwwwwwwwww
+Rhbqkbhrpppp ppp            p      p            ppp ppppRhbqkbhr
+ggggggggggggggggppppppppppppgppppppwppppppppppppwwwpwwwwwwwwwwww
+Rhbqkbhrpppp ppp            p                   ppp ppppRhbqkbhr
+ggggggggggggpgggppppppppppppwppppppwppppppppppppwwwpwwwwwwwwwwww
